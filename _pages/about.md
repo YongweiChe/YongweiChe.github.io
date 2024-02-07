@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming **Technologist** @ Radix Trading
+subtitle: Incoming Technologist @ [Radix Trading](https://radixtrading.co/)
 
 profile:
   align: right
