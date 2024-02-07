@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate at Princeton University. Incoming Technologist @ Radix Trading
+subtitle: Incoming **Technologist** @ Radix Trading
 
 profile:
   align: right
