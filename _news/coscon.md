@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Placed second at Princeton COSCON with Evan Dogariu and David Shustin!
+Placed second at [Princeton COSCON](https://princetonacm.github.io/coscon/) with [Evan Dogariu](https://edogariu.github.io) and [David Shustin](https://davshus.github.io)!
