@@ -39,7 +39,7 @@
       "studyType": "Bachelors",
       "startDate": "2020",
       "endDate": "2024",
-      "courses": ["GPA: 3.95", "Certificates in <ul><li><a href='https://csml.princeton.edu/undergraduate/certificate-program'>Statistics & Machine Learning</a></li><li><a href='https://orfe.princeton.edu/undergraduate/oqds-certificate'>Optimization & Quantitative Decision Science</a></li><li><a href='https://bcf.princeton.edu/academic-programs/undergraduate-certificate-in-finance-2/'>Finance</a></li></ul>"]
+      "courses": ["GPA: 3.95", "Certificates in <a href='https://csml.princeton.edu/undergraduate/certificate-program'>Statistics & Machine Learning</a>, <a href='https://orfe.princeton.edu/undergraduate/oqds-certificate'>Optimization & Quantitative Decision Science</a>, and <a href='https://bcf.princeton.edu/academic-programs/undergraduate-certificate-in-finance-2/'>Finance</a>"]
     }
   ],
   "awards": [

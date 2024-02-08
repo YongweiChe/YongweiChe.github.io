@@ -20,5 +20,5 @@ I'm a senior at Princeton University studying Computer Science. I’m fortunate 
 
 My main interests are in reinforcement learning, low-latency systems, and systems for ML. I also enjoy analysis, mathematical game theory, and other random endeavors on the side :)
 
-You can reach me at `X [at] princeton [dot] edu` where `X := yongweic`.
+You can reach me at `X@princeton.edu` where `X := yongweic`.
 
