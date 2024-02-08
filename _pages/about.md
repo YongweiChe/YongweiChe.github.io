@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Technologist @ [Radix Trading](https://radixtrading.co/)
+subtitle: Incoming <b>Technologist</b> @ <a href='https://radixtrading.co/'>Radix Trading</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: amazon_photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -16,6 +16,9 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a fourth year undergraduate studying Computer Science at **Princeton University**. I’m fortunate to be advised by [Ben Eysenbach](https://ben-eysenbach.github.io/) and [Huacheng Yu](https://www.cs.princeton.edu/~hy2/).
+I'm a senior at Princeton University studying Computer Science. I’m fortunate to be advised by [Ben Eysenbach](https://ben-eysenbach.github.io/) and [Huacheng Yu](https://www.cs.princeton.edu/~hy2/). After graduation, I'll be joining Radix Trading as a Quantitative Technologist.
 
-I'm interested in algorithms that help computers understand the world.
+My main interests are in reinforcement learning, low-latency systems, and systems for ML. I also enjoy analysis, stochastic control, and other random endeavors on the side :)
+
+To get in touch, send me a message at `yongweic [at] princeton  [dot] edu`.
+
